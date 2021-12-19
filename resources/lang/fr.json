@@ -1,0 +1,6 @@
+{
+     "most_comment": "article le plus commenté",
+    "most_active_users": "les utilisateurs les plus actif",
+    "most_active_users_last_months" : "les utilisateurs les plus actif le dernier mois",
+    "plural":"{0} pas de commentaire|{1} 1 commentaire|[2,*] :count commentaires"
+}
